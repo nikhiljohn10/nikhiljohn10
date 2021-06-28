@@ -23,7 +23,5 @@
 
 <p align="left"> <a href="https://twitter.com/nikzjon" target="blank"><img src="https://img.shields.io/twitter/follow/nikzjon?logo=twitter&style=for-the-badge" alt="nikzjon" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="nikhiljohn10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nikhiljohn10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="nikhiljohn10" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nikhiljohn10" /></p>
 
