@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
 
-- 🔭 I’m currently working on [DjangoGirls Tutorials](https://github.com/nikhiljohn10/tutorial)
+- 🔭 I’m currently working on [Step CA Tutorials](https://github.com/nikhiljohn10/step-ca-tutorials)
 
-- 👯 I’m looking to collaborate on [a Django+DRF framework dedicated for generating RESTful API apps](https://github.com/nikhiljohn10/mango)
+- 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap)
 
 - 💬 Ask me about **anything. I'm a fast learner. I'll share anything I know.**
 
