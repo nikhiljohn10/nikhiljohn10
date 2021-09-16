@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
 
-- 🔭 I’m currently working on [Step CA Tutorials](https://github.com/nikhiljohn10/step-ca-tutorials)
+- 🔭 I’m currently working on [Step CA Manager using Python](https://github.com/nikhiljohn10/scapy)
 
 - 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap)
 
