@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Step CA Python Manager](https://github.com/nikhiljohn10/scapy)
 
-- 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap)
+- 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap) and [Step CA Python Manager](https://github.com/nikhiljohn10/scapy)
 
 - 💬 Ask me about **anything. I'm a fast learner. I'll share anything I know.**
 
