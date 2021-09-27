@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil John</h1>
+<h1 align="center">Hello 👋, I'm Nikhil John</h1>
 <h3 align="center">Programmer | Engineer | WebDev | Designer | Atrist | Gemologiest | Photographer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
