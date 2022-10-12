@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on private project for Better Housing Organisation.
 
-- 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap) and [Step CA Python Manager](https://github.com/nikhiljohn10/scapy)
+- 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap) and [Ripples](https://github.com/nikhiljohn10/ripples)
 
 - 💬 Ask me about **anything. I'm a fast learner. I'll share anything I know.**
 
