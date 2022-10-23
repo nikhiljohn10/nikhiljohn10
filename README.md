@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Nikhil John</h1>
-<h3 align="center">Developer | Designer | Artist | Gemologist | Photographer</h3>
+<h3 align="center">Developer | Designer | Gemologist | Photographer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
 
