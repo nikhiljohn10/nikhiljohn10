@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
 
-- 🔭 I’m currently working on private project for Better Housing Organisation.
+- 🔭 I’m currently working on hobby project for Better Housing.
 
 - 🧠 I'm currently learning Go Language.
 
