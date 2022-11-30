@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [pi-clap](https://github.com/nikhiljohn10/pi-clap) and [Ripples](https://github.com/nikhiljohn10/ripples)
 
-- 🦦 I'm also code owner of [Goozt Projects](https://github.com/goozt)(Go Langauge Projects)
+- 🦦 I'm also code owner of [Goozt](https://github.com/goozt)(Go Langauge Projects)
 
 - 💬 Ask me about anything. **I'm a fast learner. I'm open to share what I have learnt.**
 
