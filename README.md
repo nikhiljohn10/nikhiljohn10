@@ -31,7 +31,7 @@
 <p align="left"> <a href="https://twitter.com/nikzjon" target="blank"><img src="https://img.shields.io/twitter/follow/nikzjon?logo=twitter&style=for-the-badge" alt="nikzjon"/></a></p>
 
 <details>	
-<summary><b>:computer: Github Stats</b></summary><br/>
+<summary><b>:computer: Technologies Explored</b></summary><br/>
 
 <a href="https://golang.org" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="40" width="40" />
