@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hello, I'm Nikhil John</h1>
 <h3 align="center">Developer | Designer | Gemologist | Photographer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
+<p align="center"><img width="400px" src="https://user-images.githubusercontent.com/5616249/208170583-a47badb9-a20e-42ed-bfa8-b3e3a3a24567.png" alt="learn go" /></p>
+
+<!--img src="https://visitor-badge.glitch.me/badge?page_id=nikhiljohn10&left_color=gray&right_color=blue"/-->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nikhiljohn10&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhiljohn10" /> </p>
 
 - 🔭 I’m currently working on freelance project for Better Housing.
 
@@ -27,8 +30,10 @@
 
 <p align="left"> <a href="https://twitter.com/nikzjon" target="blank"><img src="https://img.shields.io/twitter/follow/nikzjon?logo=twitter&style=for-the-badge" alt="nikzjon"/></a></p>
 
-<h3 align="left">I work with:</h3>
-<p><a href="https://golang.org" target="blank">
+<details>	
+<summary><b>:computer: Github Stats</b></summary><br/>
+
+<a href="https://golang.org" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="40" width="40" />
 </a>
 <a href="https://www.python.org" target="blank">
@@ -63,6 +68,30 @@
 </a>
 <a href="https://www.latex-project.org/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40" width="40" />
-</a></p>
+</a>
 
-<p><img align="left" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&card_width=280" alt="nikhiljohn10" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiljohn10&show_icons=true&theme=tokyonight&hide_border=true&locale=en&card_width=290" alt="nikhiljohn10"/></p>
+</details>
+
+<details>	
+<summary><b>:star: Github Stats</b></summary><br/>
+
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljohn10&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/nikhiljohn10/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljohn10&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/nikhiljohn10/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikhiljohn10&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/nikhiljohn10/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikhiljohn10&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/nikhiljohn10/github-readme-stats#gh-light-mode-only)
+  
+</details>
+
+
+<details>	
+<summary><b>:bulb: Language Timeline</b></summary><br/>
+  
+<p><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhiljohn10&skills=Go,Javascript,Python,Swift,NodeJS,SCSS,EJS&height=225&width=600&padding=20"/></p>
+  
+</details>
+
+<p align="center">
+  <img alt="learn go" width="100%" src="https://user-images.githubusercontent.com/5616249/208177033-36d60733-7f74-46d6-b2e2-dbd2a7cdb813.jpeg" />
+
+</p>
+
