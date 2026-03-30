@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Nikhil John</h1>
-<h3 align="center">Developer | Designer | Gemologist | Photographer</h3>
+<h3 align="center">Developer | Designer | Photographer</h3>
 
 <p align="center"><img width="400px" src="https://user-images.githubusercontent.com/5616249/208170583-a47badb9-a20e-42ed-bfa8-b3e3a3a24567.png" alt="learn go" /></p>
 
